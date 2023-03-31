@@ -6,7 +6,7 @@
         <availability>on_desktop</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
-        <category display_value="Get a quote">7208cdc32ff521100e05235df699b655</category>
+        <category display_value="Subscription">1c1c5ad72ff121100e05235df699b625</category>
         <checked_out>false</checked_out>
         <cost>0</cost>
         <custom_cart/>
@@ -87,14 +87,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-03-31 01:15:33</sys_created_on>
         <sys_id>9dc652532ff121100e05235df699b689</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Subscription</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
         <sys_update_name>sc_cat_item_producer_9dc652532ff121100e05235df699b689</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-03-31 01:25:25</sys_updated_on>
+        <sys_updated_on>2023-03-31 01:38:57</sys_updated_on>
         <table_name>x_919130_luxclean_join_the_family</table_name>
         <taxonomy_topic/>
         <template/>

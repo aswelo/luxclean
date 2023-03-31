@@ -31,7 +31,7 @@
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
         <name>Subscription</name>
-        <no_attachment_v2>true</no_attachment_v2>
+        <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
         <no_delivery_time_v2>false</no_delivery_time_v2>
@@ -87,14 +87,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-03-31 01:15:33</sys_created_on>
         <sys_id>9dc652532ff121100e05235df699b689</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Subscription</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
         <sys_update_name>sc_cat_item_producer_9dc652532ff121100e05235df699b689</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-03-31 01:38:57</sys_updated_on>
+        <sys_updated_on>2023-03-31 18:44:25</sys_updated_on>
         <table_name>x_919130_luxclean_join_the_family</table_name>
         <taxonomy_topic/>
         <template/>

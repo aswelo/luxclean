@@ -4,15 +4,15 @@
         <sc_catalog display_value="Lux clean catalog">592509032ff521100e05235df699b6d6</sc_catalog>
         <sys_class_name>sc_cat_item_catalog</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-03-31 01:38:04</sys_created_on>
-        <sys_id>e23cdad72ff121100e05235df699b6d1</sys_id>
+        <sys_created_on>2023-03-31 18:43:02</sys_created_on>
+        <sys_id>e4d64ea32f7161100e05235df699b66c</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Lux clean catalog.Subscription</sys_name>
         <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
         <sys_policy/>
         <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
-        <sys_update_name>sc_cat_item_catalog_e23cdad72ff121100e05235df699b6d1</sys_update_name>
+        <sys_update_name>sc_cat_item_catalog_e4d64ea32f7161100e05235df699b66c</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-03-31 01:38:55</sys_updated_on>
+        <sys_updated_on>2023-03-31 18:44:22</sys_updated_on>
     </sc_cat_item_catalog>
 </record_update>

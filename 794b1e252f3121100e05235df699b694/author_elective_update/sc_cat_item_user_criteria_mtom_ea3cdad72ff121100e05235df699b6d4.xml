@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Subscription">9dc652532ff121100e05235df699b689</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-31 01:38:04</sys_created_on>
+        <sys_id>ea3cdad72ff121100e05235df699b6d4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Subscription.Users with 'Admin' Role</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_ea3cdad72ff121100e05235df699b6d4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-31 01:38:55</sys_updated_on>
+        <user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Luxclean">794b1e252f3121100e05235df699b694</application>
+        <file_path/>
+        <instance_id>7fc3cfaedbf854909a4dcac50596198b</instance_id>
+        <instance_name>dev104139</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_ea3cdad72ff121100e05235df699b6d4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Subscription">9dc652532ff121100e05235df699b689</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-31 01:38:04</sys_created_on><sys_id>ea3cdad72ff121100e05235df699b6d4</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Subscription.Users with 'Admin' Role</sys_name><sys_package/><sys_policy/><sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_ea3cdad72ff121100e05235df699b6d4</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-03-31 01:38:55</sys_updated_on><user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>1801956406</payload_hash>
+        <record_name>Subscription.Users with 'Admin' Role</record_name>
+        <reverted_from/>
+        <source>3e6cded72ff121100e05235df699b623</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-03-31 01:38:55</sys_created_on>
+        <sys_id>4b6cded72ff121100e05235df699b6d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1873551562a0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-31 01:38:55</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>8f6cded7c8f12110cf347918319cd5d5</update_guid>
+        <update_guid_history>8f6cded7c8f12110cf347918319cd5d5:1801956406,c36cded762f121100e482c760779e5d4:1718893568</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Subscription.Users with 'Admin' Role">1427c2e32f7161100e05235df699b654</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-03-31 18:44:23</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>2a760f2d85004dae888e7be0d2122021</sys_id>
+        <sys_metadata>ea3cdad72ff121100e05235df699b6d4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Subscription.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_scope_delete display_value="">088eebcd5ca944509552c3a3e2b85590</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_ea3cdad72ff121100e05235df699b6d4</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_ea3cdad72ff121100e05235df699b6d4">4b6cded72ff121100e05235df699b6d6</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-31 18:44:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

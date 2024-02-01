@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="" table="x_919130_luxclean_testing">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element/>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Collection">collection</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_919130_luxclean_testing</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-24 20:21:20</sys_created_on>
+        <sys_id>cb23e0412f4321100e05235df699b62a</sys_id>
+        <sys_name>x_919130_luxclean_testing</sys_name>
+        <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_update_name>sys_dictionary_x_919130_luxclean_testing_null</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-24 20:21:20</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Luxclean">794b1e252f3121100e05235df699b694</application>
+        <file_path/>
+        <instance_id>7fc3cfaedbf854909a4dcac50596198b</instance_id>
+        <instance_name>dev104139</instance_name>
+        <name>sys_dictionary_x_919130_luxclean_testing_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_919130_luxclean_testing"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label/><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element/><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Collection">collection</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_919130_luxclean_testing</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-24 20:21:20</sys_created_on><sys_id>cb23e0412f4321100e05235df699b62a</sys_id><sys_name>x_919130_luxclean_testing</sys_name><sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package><sys_policy/><sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope><sys_update_name>sys_dictionary_x_919130_luxclean_testing_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-24 20:21:20</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>1508424054</payload_hash>
+        <record_name>Testing</record_name>
+        <reverted_from/>
+        <source>314b1e252f3121100e05235df699b697</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-24 20:21:21</sys_created_on>
+        <sys_id>1323e0412f4321100e05235df699b640</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1884f6c5afb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-24 20:21:21</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>9723e0419d43211073e6730e1196a43f</update_guid>
+        <update_guid_history>9723e0419d43211073e6730e1196a43f:1508424054</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-08 21:07:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>93ebfb285f4146ec98892d08c1dcae10</sys_id>
+        <sys_metadata>cb23e0412f4321100e05235df699b62a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_919130_luxclean_testing</sys_name>
+        <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+        <sys_parent display_value="">4b23e0412f4321100e05235df699b628</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_scope_delete display_value="">088eebcd5ca944509552c3a3e2b85590</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_919130_luxclean_testing_null</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_919130_luxclean_testing_null">1323e0412f4321100e05235df699b640</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-08 21:07:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

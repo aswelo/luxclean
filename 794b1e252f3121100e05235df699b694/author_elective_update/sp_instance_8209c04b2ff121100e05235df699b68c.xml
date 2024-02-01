@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">0e09c04b2ff121100e05235df699b687</sp_column>
+        <sp_widget display_value="KB Categories - KBv3">ee307070d7201200a9addd173e24d4da</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-29 20:16:29</sys_created_on>
+        <sys_id>8209c04b2ff121100e05235df699b68c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Categories</sys_name>
+        <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_update_name>sp_instance_8209c04b2ff121100e05235df699b68c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-29 20:16:29</sys_updated_on>
+        <title>Categories</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"number_of_categories_to_load": {
+		"value": 15,
+		"displayValue": "15"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=8209c04b2ff121100e05235df699b68c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Luxclean">794b1e252f3121100e05235df699b694</application>
+        <file_path/>
+        <instance_id>7fc3cfaedbf854909a4dcac50596198b</instance_id>
+        <instance_name>dev104139</instance_name>
+        <name>sp_instance_8209c04b2ff121100e05235df699b68c</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;2&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;0e09c04b2ff121100e05235df699b687&lt;/sp_column&gt;&lt;sp_widget display_value="KB Categories - KBv3"&gt;ee307070d7201200a9addd173e24d4da&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-03-29 20:16:29&lt;/sys_created_on&gt;&lt;sys_id&gt;8209c04b2ff121100e05235df699b68c&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Categories&lt;/sys_name&gt;&lt;sys_package display_value="Luxclean" source="x_919130_luxclean"&gt;794b1e252f3121100e05235df699b694&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Luxclean"&gt;794b1e252f3121100e05235df699b694&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_8209c04b2ff121100e05235df699b68c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-03-29 20:16:29&lt;/sys_updated_on&gt;&lt;title&gt;Categories&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"number_of_categories_to_load": {
+		"value": 15,
+		"displayValue": "15"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=8209c04b2ff121100e05235df699b68c"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1842757993</payload_hash>
+        <record_name>Categories</record_name>
+        <reverted_from/>
+        <source>314b1e252f3121100e05235df699b697</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-29 20:16:29</sys_created_on>
+        <sys_id>8e09c04b2ff121100e05235df699b68d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1872f03c6940000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-29 20:16:29</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>c209c04b68f1211083158063ef969c8d</update_guid>
+        <update_guid_history>c209c04b68f1211083158063ef969c8d:1842757993</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Categories">637e048f2ff121100e05235df699b65d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-29 20:40:21</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>6b3afe1e3c8a4438adf08fbd20824410</sys_id>
+        <sys_metadata>8209c04b2ff121100e05235df699b68c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Categories</sys_name>
+        <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_scope_delete display_value="">088eebcd5ca944509552c3a3e2b85590</sys_scope_delete>
+        <sys_update_name>sp_instance_8209c04b2ff121100e05235df699b68c</sys_update_name>
+        <sys_update_version display_value="sp_instance_8209c04b2ff121100e05235df699b68c">8e09c04b2ff121100e05235df699b68d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-29 20:40:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

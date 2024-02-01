@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_carousel">
+    <sp_instance_carousel action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <interval>5000</interval>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">3a7d92502f4a21100e05235df699b651</sp_column>
+        <sp_widget display_value="luxclean carousel">32cf4a1a2f7121100e05235df699b65c</sp_widget>
+        <sys_class_name>sp_instance_carousel</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 04:17:48</sys_created_on>
+        <sys_id>6b8d16502f4a21100e05235df699b678</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_update_name>sp_instance_carousel_6b8d16502f4a21100e05235df699b678</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 04:17:48</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_carousel>
+    <sys_translated_text action="DELETE" query="documentkey=6b8d16502f4a21100e05235df699b678"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Luxclean">794b1e252f3121100e05235df699b694</application>
+        <file_path/>
+        <instance_id>7fc3cfaedbf854909a4dcac50596198b</instance_id>
+        <instance_name>dev104139</instance_name>
+        <name>sp_instance_carousel_6b8d16502f4a21100e05235df699b678</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_carousel"><sp_instance_carousel action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><interval>5000</interval><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="2">3a7d92502f4a21100e05235df699b651</sp_column><sp_widget display_value="luxclean carousel">32cf4a1a2f7121100e05235df699b65c</sp_widget><sys_class_name>sp_instance_carousel</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-03 04:17:48</sys_created_on><sys_id>6b8d16502f4a21100e05235df699b678</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package><sys_policy/><sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope><sys_update_name>sp_instance_carousel_6b8d16502f4a21100e05235df699b678</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-03 04:17:48</sys_updated_on><title/><url/><widget_parameters/></sp_instance_carousel><sys_translated_text action="delete_multiple" query="documentkey=6b8d16502f4a21100e05235df699b678"/></record_update>]]></payload>
+        <payload_hash>-924107009</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>314b1e252f3121100e05235df699b697</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 04:17:49</sys_created_on>
+        <sys_id>f78d16502f4a21100e05235df699b67a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1874555e3a40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 04:17:49</sys_updated_on>
+        <type>Instance of Carousel</type>
+        <update_guid>3f8d1650ad4a2110a70ca5518a25f679</update_guid>
+        <update_guid_history>3f8d1650ad4a2110a70ca5518a25f679:-924107009</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">fdcd1a502f4a21100e05235df699b605</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 04:18:47</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_carousel">sp_instance_carousel</sys_db_object>
+        <sys_id>87610deea9d94f4798d719dd61fa9fa1</sys_id>
+        <sys_metadata>6b8d16502f4a21100e05235df699b678</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_scope_delete display_value="">088eebcd5ca944509552c3a3e2b85590</sys_scope_delete>
+        <sys_update_name>sp_instance_carousel_6b8d16502f4a21100e05235df699b678</sys_update_name>
+        <sys_update_version display_value="sp_instance_carousel_6b8d16502f4a21100e05235df699b678">f78d16502f4a21100e05235df699b67a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 04:18:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Get A Quote">a3a62ead2f3121100e05235df699b60f</sc_cat_item>
+        <sc_catalog display_value="Lux clean catalog">592509032ff521100e05235df699b6d6</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-30 02:22:59</sys_created_on>
+        <sys_id>6aec194b2f3921100e05235df699b67a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Lux clean catalog.Get A Quote</sys_name>
+        <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_6aec194b2f3921100e05235df699b67a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-30 02:24:09</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Luxclean">794b1e252f3121100e05235df699b694</application>
+        <file_path/>
+        <instance_id>7fc3cfaedbf854909a4dcac50596198b</instance_id>
+        <instance_name>dev104139</instance_name>
+        <name>sc_cat_item_catalog_6aec194b2f3921100e05235df699b67a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="DELETE"><sc_cat_item display_value="Get A Quote">a3a62ead2f3121100e05235df699b60f</sc_cat_item><sc_catalog display_value="Lux clean catalog">592509032ff521100e05235df699b6d6</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-30 02:22:59</sys_created_on><sys_id>6aec194b2f3921100e05235df699b67a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Lux clean catalog.Get A Quote</sys_name><sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package><sys_policy/><sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope><sys_update_name>sc_cat_item_catalog_6aec194b2f3921100e05235df699b67a</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-03-30 02:24:09</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>438288014</payload_hash>
+        <record_name>Lux clean catalog.Get A Quote</record_name>
+        <reverted_from/>
+        <source>ae6caedc2f4a21100e05235df699b68d</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-03 05:22:44</sys_created_on>
+        <sys_id>ae6caedc2f4a21100e05235df699b692</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187459150f30000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-03 05:22:44</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>626caedce24a21106c4199ae04be7d92</update_guid>
+        <update_guid_history>626caedce24a21106c4199ae04be7d92:438288014,b32d9d4b533921107c30229152aeca37:-1697072230</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Lux clean catalog.Get A Quote">766caedc2f4a21100e05235df699b6e2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-03 05:22:44</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>4c695953f4aa4743ae3d78191c75f269</sys_id>
+        <sys_metadata>6aec194b2f3921100e05235df699b67a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lux clean catalog.Get A Quote</sys_name>
+        <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+        <sys_parent display_value="Get A Quote">a3a62ead2f3121100e05235df699b60f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_scope_delete display_value="">088eebcd5ca944509552c3a3e2b85590</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_6aec194b2f3921100e05235df699b67a</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_6aec194b2f3921100e05235df699b67a">ae6caedc2f4a21100e05235df699b692</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-03 05:22:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

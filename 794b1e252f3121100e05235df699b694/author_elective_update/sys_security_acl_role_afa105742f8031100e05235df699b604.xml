@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 20:58:56</sys_created_on>
+        <sys_id>afa105742f8031100e05235df699b604</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_919130_luxclean_table_3.x_919130_luxclean.admin</sys_name>
+        <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_security_acl display_value="x_919130_luxclean_table_3">a7a105742f8031100e05235df699b602</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_afa105742f8031100e05235df699b604</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 20:58:56</sys_updated_on>
+        <sys_user_role display_value="x_919130_luxclean.admin" name="x_919130_luxclean.admin">754b1e252f3121100e05235df699b69a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Luxclean">794b1e252f3121100e05235df699b694</application>
+        <file_path/>
+        <instance_id>7fc3cfaedbf854909a4dcac50596198b</instance_id>
+        <instance_name>dev104139</instance_name>
+        <name>sys_security_acl_role_afa105742f8031100e05235df699b604</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 20:58:56</sys_created_on><sys_id>afa105742f8031100e05235df699b604</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_919130_luxclean_table_3.x_919130_luxclean.admin</sys_name><sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package><sys_policy/><sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope><sys_security_acl display_value="x_919130_luxclean_table_3">a7a105742f8031100e05235df699b602</sys_security_acl><sys_update_name>sys_security_acl_role_afa105742f8031100e05235df699b604</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 20:58:56</sys_updated_on><sys_user_role display_value="x_919130_luxclean.admin" name="x_919130_luxclean.admin">754b1e252f3121100e05235df699b69a</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>973739826</payload_hash>
+        <record_name>x_919130_luxclean_table_3.x_919130_luxclean.admin</record_name>
+        <reverted_from/>
+        <source>314b1e252f3121100e05235df699b697</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 20:58:56</sys_created_on>
+        <sys_id>a3a105742f8031100e05235df699b607</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1894be660730000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 20:58:56</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>e7a105749b803110d973367cbc261206</update_guid>
+        <update_guid_history>e7a105749b803110d973367cbc261206:973739826</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_919130_luxclean_table_3.x_919130_luxclean.admin">9137ce572f0031100e05235df699b6ef</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-20 20:27:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>32ef9544c52741d388523c9364247241</sys_id>
+        <sys_metadata>afa105742f8031100e05235df699b604</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_919130_luxclean_table_3.x_919130_luxclean.admin</sys_name>
+        <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+        <sys_parent display_value="">a7a105742f8031100e05235df699b602</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_scope_delete display_value="">088eebcd5ca944509552c3a3e2b85590</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_afa105742f8031100e05235df699b604</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_afa105742f8031100e05235df699b604">a3a105742f8031100e05235df699b607</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-20 20:27:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

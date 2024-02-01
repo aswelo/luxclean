@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">7f9bf1d72f7121100e05235df699b6ed</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-28 02:15:25</sys_created_on>
+        <sys_id>180847d22f7521100e05235df699b677</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_update_name>sp_instance_180847d22f7521100e05235df699b677</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-30 23:19:01</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p>All Purpose Cleaning Starter Kit</p>\r\n<p>$44.00</p>\r\n<p>&nbsp;</p>",
+		"displayValue": "<p>All Purpose Cleaning Starter Kit</p>\n<p>$44.00</p>\n<p>&nbsp;</p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=180847d22f7521100e05235df699b677"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#f3e9d3</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>review.JPG</file_name>
+        <hash>af00350e9de94d7f46f32c6bde44791cc5840738b3627726db8ccb5a8b95e328</hash>
+        <image_height>37</image_height>
+        <image_width>132</image_width>
+        <size_bytes>8979</size_bytes>
+        <size_compressed>2227</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-28 02:19:42</sys_created_on>
+        <sys_id>87f887922f7521100e05235df699b6ef</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-28 02:19:42</sys_updated_on>
+        <table_name>sp_instance</table_name>
+        <table_sys_id>180847d22f7521100e05235df699b677</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="review.JPG" sys_id="87f887922f7521100e05235df699b6ef">87f887922f7521100e05235df699b6ef</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-28 02:19:42</sys_created_on>
+        <sys_id>c7f887922f7521100e05235df699b6ef</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>7VdnVJNZGr4hCUkQxIw0BSQGMBIglZolQdSgoDjSpIqGJEAgJBCCFAcLiDoWRhF1RWQUQWAUpAxFyogNGGFWkSZhdAQZFBARBAuW7Bdsu7Oes/Xs7jmTJ+eevO/93u8+93nv/fF88tvye2COq7OLM4DBYOAA9APyvjkv2PGCEADc3AARAIAGCNgfgAoUaUKJ6y4BQEAxDIr9s04o/sECAObcGjYAKGhOHcpZ0AAGwzPvKqGEEkoooYQSv1P48IViC5yTRMCX4jxJ0ATyAHzGUWhBzqHgAOJjXJd+cCaGU+kApKd/ij+5C3SWYkWlu1BCCSWUUEKJ3zdoFBqdQaEzaLY4GpVBtWdAhuFzc5APAXwgBGJgAXDACUiAAMqlUOwJFKZE3jdrYZhUGsUgk0UxJA5PHMwnccWR5HhOFJlKopCBg2N8FIcbAZmYYH6oQMQkjNVeJOAEPCbBx9qN4ha1jB8mWJko4XsmrvHiJkZw7XkER5aGmkM8Iz4yKpIv5eDiI4WiGEY8Ez+zOgOKFdNkPMtBwgtheCx3fl8BZUz8+73ExcWR4ugksSSUTLW3tydTaGQazRKqsIxJEEk58ZaiGOP3Cyznx3AlgiipQCzCKXJOsDhWysTHxgp4jBBOiHUwj2dtGcyh8yypVB7HksOjUy15dDrP1ppqRwuhBuPf0/O4H9mjYiXCGW4el8wX8iP5ImkM1A0qGU/+z3JCLfpI+tn2QxqhGsYyCZ8j5S+HBktxyJYUuiXN1uvDIZOodJoD+Td1DuTfbPR/0C2WA4/L4Cr2JJa8o/fkR/97py0UsP7aWL/TCU2/CyAC6PZhMBgH8l9y/20zyO8vHxR9vKrQm7j/ApQkShIliZJESaIkUZL8f5F8srt8EeRx4yAzK+8FywAKiVRFIlCqSFU0CoVWw86CPIaatuYcdaye9vx5etp6uvoLCAv1DU0NdfXwJLzpYjNzC/P5ODKdTKQRiOZExSIwFBqthlHTmjVLi2igZ0D8pyFvAFg0MAU74DA8UMHC4FiY/CowAgCGhM3gw9cBTAWOQKqi0Bi1WVBBxRygAoPDVRBwJBKBgJ4mQc8BAov8YiHVSXWuOweFj9aibT94Cm28tPSStkfbExN6sCQZo6ajqzdvvukiwmIzopW1ja2dPWPZcrbzipUurp5e3ut8fP38uTx+SGiYIDxGGrspLj4hMWVH6s5du7/ek34o4/CRo388lplzOjfvTH5B4Xdl5d9XVFZVX6i5fOXqtcam5h+v32rv6Ozqvt0j6+u/P/Dr4IOHQ8PjE08np549f/FyWqELBuCwD/isLiykSwWBgCNQCl0wlThFARaBXEhV/cLJHcWJnounbUdrLT14qvQSxpju8UQ7WNKmpmNi1Wc6rpA2o+wfE5b8Lyn7KOyTLhlQh8Ogw4NjgSOYJu4RlplQ6spOFOzx++akYYSm+zg72Xe1xeOvWpKrl2B3EX6ITmN0W/t3DDk/DbmZb1bL1i8YwavuTzF76NRsVdEcH3FVpzJxc0D43ITN+tT03IEFP2tueLDe+sypiCR9FwE582xHqoNX21XPIq3+qUeMjDzVdnYmOzZk4zmM504wydxaxG/pj1yE66lRb0jqdLZ/NhT4eHs/sqqj+Nu1h3hxhAQ7QkRor6ws22ZfuLNBywbm3v2Y6gsB3Kqcwp7hLtsJrfIs1wbettyNW/A51d3ft7hkmu89mW52hdRosmVpjaF/uMOfXO+eCUyvPxcm3kAP6bs4rzc7emRVoN04Wg52lNzVdeTLgffNNzcCkxKKc34JahcN+hY9Tmlugm2iEJ5qp6qvJ/YyxVzXDMLsnanGjMK1rTBuKmKKuTXPq67zkdAEk2D39e5mpEvza6Qkc2y3zn2vivTLbuMBhvfu7f/pl/NVRie0x6UFRUFVt83aTqwo7W3zc48/7nJURNrGfW2qx+3NC6ztsBRyfWqPXvd5lVs4WOUtqGjNLRoO6bN61Ma5w/W4RfE2dLHLK1529S6usq50VSSLu2iwdYeZHvzkQKIcENva69zz6/c5Ci9MPJDBk/d3d9tdi2nSd/Y2sD9ypOtVZs3ctR6l9WzavNPVqfzUKmP1wkY6e5OeprExKi+KRSypLOk44K+RHS7mGepmRb+UFk+XD7QVhXbIpn/9aoiiYv6mA95bH82l3MAiteufPxIvPV9+uOfBdGRdnH9eff0lvouBmXFRIr++bl2Jhc1D4/3OKnvyt+bINjSX017GoZ38PFOaVk93pVro6A63ZQTVjA0wpuqLMu2N9IaelTQZDnB5E6wu+Ono7pHAk0aUOw3MkVtjk8eTXPt1a1ty7XuNlrg83kqMHTzETxKWfKky6r5jMcVzKNB3X6V3uGuusJY0OFnqinVP3Hksv1fwLMIw5/U5GCnx4oVzY9qCZ+VDkjvXa0NSnbuD8rM2TqdFBMuMymVNsyfe+qeqrzBR2+vefr+jKLWutWXBk1bdF6Wyesak18Oa6PVWb+vSVro15hwKPdqd1JfE6tIgmRcclbaTW0c7Ym4mqt1621L2SreH9ZPRwTetcVM3Al9NnV5T8o1bpc2TcqvNexeLzmZ3XktpcGCuCS3+NoZhHqzt6xdm69U+Gqtvs+rSRIGFQeyX0UH8tOqhoMJYlCzSNCXBCX/YAoWbn3zDpay0Mgy3fVPJlSPzyFNT+fsa6tzYpmeOP9dWX5qnk53PvDfK6vK9O9748n7Sd5rL7xc8Lz7Tf9e8dtPOfqqJiOLVGaCxSMMmIbtdssIGsy9r24pon7PlmmzPnMIfyY4jrY1Fa8LTXLI3FPQ2RRT+HNDgl25LxIxcE8SvuyyTA/etFRpvPca8mPrZU92Cacvi7FEi+VjUwJFjL02yqydzmPO7NFYHyc6nv1jYuWUEPtr75DwtLYAYy/VYt2X9xb60wv6MnP4fni5RV5+d4c7evCtby50N/t7YKu/5MzXGpyITIwAA</data>
+        <length>2956</length>
+        <position>1</position>
+        <sys_attachment display_value="review.JPG" sys_id="87f887922f7521100e05235df699b6ef">87f887922f7521100e05235df699b6ef</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-28 02:19:42</sys_created_on>
+        <sys_id>4bf887922f7521100e05235df699b6ef</sys_id>
+    </sys_attachment_doc>
+</record_update>

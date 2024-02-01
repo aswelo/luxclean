@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Subscription">9dc652532ff121100e05235df699b689</sc_cat_item>
+        <sc_category display_value="Subscription">1c1c5ad72ff121100e05235df699b625</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-31 01:38:50</sys_created_on>
+        <sys_id>f96cded72ff121100e05235df699b638</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Subscription.Subscription</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_update_name>sc_cat_item_category_f96cded72ff121100e05235df699b638</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-31 01:38:55</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Luxclean">794b1e252f3121100e05235df699b694</application>
+        <file_path/>
+        <instance_id>7fc3cfaedbf854909a4dcac50596198b</instance_id>
+        <instance_name>dev104139</instance_name>
+        <name>sc_cat_item_category_f96cded72ff121100e05235df699b638</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Subscription">9dc652532ff121100e05235df699b689</sc_cat_item><sc_category display_value="Subscription">1c1c5ad72ff121100e05235df699b625</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-31 01:38:50</sys_created_on><sys_id>f96cded72ff121100e05235df699b638</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Subscription.Subscription</sys_name><sys_package/><sys_policy/><sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope><sys_update_name>sc_cat_item_category_f96cded72ff121100e05235df699b638</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-03-31 01:38:55</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1948045656</payload_hash>
+        <record_name>Subscription.Subscription</record_name>
+        <reverted_from/>
+        <source>482782e32f7161100e05235df699b690</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-03-31 18:44:22</sys_created_on>
+        <sys_id>0827c2e32f7161100e05235df699b642</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18738fc27c10000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-31 18:44:22</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>c827c2e3fc716110178b33219153c741</update_guid>
+        <update_guid_history>c827c2e3fc716110178b33219153c741:-1948045656,8f6cded7b8f1211079dd1fe8d7354ec0:-145624780</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Subscription.Subscription">4c27c2e32f7161100e05235df699b646</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-03-31 18:44:22</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>2836f7f91fe045ce87b2ace602064c71</sys_id>
+        <sys_metadata>f96cded72ff121100e05235df699b638</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Subscription.Subscription</sys_name>
+        <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_scope_delete display_value="">088eebcd5ca944509552c3a3e2b85590</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_f96cded72ff121100e05235df699b638</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_f96cded72ff121100e05235df699b638">0827c2e32f7161100e05235df699b642</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-31 18:44:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_announcement_portal">
+    <m2m_announcement_portal action="DELETE">
+        <announcement display_value="">1ce59ff62f3121100e05235df699b6c3</announcement>
+        <order>100</order>
+        <sp_portal display_value="lux clean">ed462e922ff121100e05235df699b616</sp_portal>
+        <sys_class_name>m2m_announcement_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-29 16:34:39</sys_created_on>
+        <sys_id>24e59ff62f3121100e05235df699b6c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.lux clean</sys_name>
+        <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_update_name>m2m_announcement_portal_24e59ff62f3121100e05235df699b6c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-29 16:34:39</sys_updated_on>
+    </m2m_announcement_portal>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Luxclean">794b1e252f3121100e05235df699b694</application>
+        <file_path/>
+        <instance_id>7fc3cfaedbf854909a4dcac50596198b</instance_id>
+        <instance_name>dev104139</instance_name>
+        <name>m2m_announcement_portal_24e59ff62f3121100e05235df699b6c7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_announcement_portal"><m2m_announcement_portal action="INSERT_OR_UPDATE"><announcement display_value="">1ce59ff62f3121100e05235df699b6c3</announcement><order>100</order><sp_portal display_value="lux clean">ed462e922ff121100e05235df699b616</sp_portal><sys_class_name>m2m_announcement_portal</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-29 16:34:39</sys_created_on><sys_id>24e59ff62f3121100e05235df699b6c7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.lux clean</sys_name><sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package><sys_policy/><sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope><sys_update_name>m2m_announcement_portal_24e59ff62f3121100e05235df699b6c7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-29 16:34:39</sys_updated_on></m2m_announcement_portal></record_update>]]></payload>
+        <payload_hash>247062267</payload_hash>
+        <record_name>.lux clean</record_name>
+        <reverted_from/>
+        <source>314b1e252f3121100e05235df699b697</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-29 16:34:39</sys_created_on>
+        <sys_id>28461b3a2f3121100e05235df699b66f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1872e38b0560000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-29 16:34:39</sys_updated_on>
+        <type>Portal Announcements</type>
+        <update_guid>6c461b3a6d312110b482cec6d3e2026e</update_guid>
+        <update_guid_history>6c461b3a6d312110b482cec6d3e2026e:247062267</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".lux clean">bb75ade82f5221100e05235df699b60e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-16 05:07:03</sys_created_on>
+        <sys_db_object display_value="" name="m2m_announcement_portal">m2m_announcement_portal</sys_db_object>
+        <sys_id>894d3cb0d6ff4eb0a633fd273af71810</sys_id>
+        <sys_metadata>24e59ff62f3121100e05235df699b6c7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.lux clean</sys_name>
+        <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_scope_delete display_value="">088eebcd5ca944509552c3a3e2b85590</sys_scope_delete>
+        <sys_update_name>m2m_announcement_portal_24e59ff62f3121100e05235df699b6c7</sys_update_name>
+        <sys_update_version display_value="m2m_announcement_portal_24e59ff62f3121100e05235df699b6c7">28461b3a2f3121100e05235df699b66f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-16 05:07:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

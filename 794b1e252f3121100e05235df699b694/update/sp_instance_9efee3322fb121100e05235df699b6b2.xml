@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">fcfea3322fb121100e05235df699b6d6</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-29 18:22:37</sys_created_on>
+        <sys_id>9efee3322fb121100e05235df699b6b2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_update_name>sp_instance_9efee3322fb121100e05235df699b6b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-29 18:23:07</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p><img style=\"max-width: 100%; max-height: 480px;\" src=\"/sys_attachment.do?sys_id=c01f27322fb121100e05235df699b6fc\" /></p>",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=9efee3322fb121100e05235df699b6b2"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#656565</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>Joinfamily.JPG</file_name>
+        <hash>c65d1fedde6f5bce8956c1978e73ecafb4f0b29475aab455201e092ab405ec33</hash>
+        <image_height>33</image_height>
+        <image_width>1229</image_width>
+        <size_bytes>15124</size_bytes>
+        <size_compressed>3626</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-29 18:23:02</sys_created_on>
+        <sys_id>c01f27322fb121100e05235df699b6fc</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-29 18:23:03</sys_updated_on>
+        <table_name>sp_instance</table_name>
+        <table_sys_id>9efee3322fb121100e05235df699b6b2</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="Joinfamily.JPG" sys_id="c01f27322fb121100e05235df699b6fc">c01f27322fb121100e05235df699b6fc</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-29 18:23:02</sys_created_on>
+        <sys_id>041f27322fb121100e05235df699b6fc</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>4824</length>
+        <position>1</position>
+        <sys_attachment display_value="Joinfamily.JPG" sys_id="c01f27322fb121100e05235df699b6fc">c01f27322fb121100e05235df699b6fc</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-29 18:23:02</sys_created_on>
+        <sys_id>841f27322fb121100e05235df699b6fc</sys_id>
+    </sys_attachment_doc>
+</record_update>

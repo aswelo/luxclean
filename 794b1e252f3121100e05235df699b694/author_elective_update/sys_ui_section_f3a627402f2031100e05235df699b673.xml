@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="f3a627402f2031100e05235df699b673" sys_domain="global" table="x_919130_luxclean_table_3" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_mod_count</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-04 21:36:07</sys_created_on>
+            <sys_id>a0c6a3842f2031100e05235df699b644</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919130_luxclean_table_3" sys_domain="global" view="Default view">f3a627402f2031100e05235df699b673</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-04 21:36:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-04 21:36:07</sys_created_on>
+            <sys_id>68c6a3842f2031100e05235df699b644</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919130_luxclean_table_3" sys_domain="global" view="Default view">f3a627402f2031100e05235df699b673</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-04 21:36:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_919130_luxclean_table_3</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-04 21:35:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3a627402f2031100e05235df699b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_919130_luxclean_table_3</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+            <sys_update_name>sys_ui_section_f3a627402f2031100e05235df699b673</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-04 21:35:48</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Luxclean">794b1e252f3121100e05235df699b694</application>
+        <file_path/>
+        <instance_id>7fc3cfaedbf854909a4dcac50596198b</instance_id>
+        <instance_name>dev104139</instance_name>
+        <name>sys_ui_section_f3a627402f2031100e05235df699b673</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="f3a627402f2031100e05235df699b673" sys_domain="global" table="x_919130_luxclean_table_3" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_mod_count</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-04 21:36:07</sys_created_on><sys_id>a0c6a3842f2031100e05235df699b644</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_919130_luxclean_table_3" sys_domain="global" view="Default view">f3a627402f2031100e05235df699b673</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-04 21:36:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_created_by</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-04 21:36:07</sys_created_on><sys_id>68c6a3842f2031100e05235df699b644</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_919130_luxclean_table_3" sys_domain="global" view="Default view">f3a627402f2031100e05235df699b673</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-04 21:36:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_919130_luxclean_table_3</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-04 21:35:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f3a627402f2031100e05235df699b673</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_919130_luxclean_table_3</sys_name><sys_overrides/><sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package><sys_policy/><sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope><sys_update_name>sys_ui_section_f3a627402f2031100e05235df699b673</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-04 21:35:48</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>66679942</payload_hash>
+        <record_name>table 3</record_name>
+        <reverted_from/>
+        <source>314b1e252f3121100e05235df699b697</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-04 21:36:07</sys_created_on>
+        <sys_id>a8c6a3842f2031100e05235df699b646</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189c27aaea50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-04 21:36:07</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>60c6a384e7203110e270f0b624550a46</update_guid>
+        <update_guid_history>60c6a384e7203110e270f0b624550a46:66679942,bfa6638449203110ab54af84eb64ba5f:-1708119057</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-22 20:53:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>2a37ec561a354b578640e07ae66053c9</sys_id>
+        <sys_metadata>f3a627402f2031100e05235df699b673</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_919130_luxclean_table_3</sys_name>
+        <sys_package display_value="Luxclean" source="x_919130_luxclean">794b1e252f3121100e05235df699b694</sys_package>
+        <sys_parent display_value="">60966f442f2031100e05235df699b690</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Luxclean">794b1e252f3121100e05235df699b694</sys_scope>
+        <sys_scope_delete display_value="">088eebcd5ca944509552c3a3e2b85590</sys_scope_delete>
+        <sys_update_name>sys_ui_section_f3a627402f2031100e05235df699b673</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_f3a627402f2031100e05235df699b673">a8c6a3842f2031100e05235df699b646</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-22 20:53:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
